@@ -30,8 +30,11 @@ app.listen(port, (err) => {
     console.error("Something bad happened");
   } else {
     console.log(`Server is listening on ${port}`);
+    console.log("hello!!!!");
+    console.log("hi there!");
   }
-});
+}); 
+
 
 
 
